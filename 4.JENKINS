@@ -127,7 +127,7 @@ Giving/passing input for the job to run.
 
 configure -- > This project is parameterized -- > add parameters -- > choice 
 
-1. choice : to pass input from given choices
+1. choice : we can pass user defined values
 2. string : to pass input dyamically
 3. Muti-line string : to pass the input on multiple lines
 4. File : to build the local files
